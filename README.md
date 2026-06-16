@@ -18,8 +18,8 @@
 ```python
 sadhana = {
     "location":    "New Brunswick, NJ",
-    "education":   "B.S. CS & Data Science, Minor in Cognitive Science & Statistics @ Rutgers Honors College (May 2028)",
-    "gpa":         3.95,
+    "education":   "B.S. CS & Data Science, Minor in Cognitive Science & Statistics @ Rutgers Honors College",
+    "gpa":         3.9,
     "role":        "data engineering intern | prev Accenture AI/ML fellow",
     "focus":       ["data engineering", "NLP", "AI/ML", "labor market research"],
     "researching": ["RMAB + LLM decision making", "diffusion models", "robots & the workplace"],
