@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=sadhana%20vasanthakumar&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&fontFamily=Georgia&desc=building%20things%20that%20(hopefully)%20matter&descAlignY=62&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=sadhana%20vasanthakumar&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=40&fontFamily=Georgia"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=cs+%2B+data+science+%40+rutgers+honors+college;data+engineering+%7C+NLP+%7C+AI%2FML;building+things+that+(hopefully)+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=cs+%2B+data+science+%40+rutgers+honors+college;data+engineering+%7C+NLP+%7C+AI%2FML" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vksadhana)
